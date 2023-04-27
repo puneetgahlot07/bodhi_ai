@@ -1,0 +1,85 @@
+[
+    {
+        "product_ndc": "66715-9733",
+        "generic_name": "Ibuprofen and Diphenhydramine citrate",
+        "labeler_name": "Lil' Drug Store Products, Inc.",
+        "brand_name": "Advil PM",
+        "active_ingredients": [
+            {
+                "name": "DIPHENHYDRAMINE CITRATE",
+                "strength": "38 mg/1"
+            },
+            {
+                "name": "IBUPROFEN",
+                "strength": "200 mg/1"
+            }
+        ],
+        "finished": true,
+        "packaging": [
+            {
+                "package_ndc": "66715-9733-2",
+                "description": "2 POUCH in 1 CARTON (66715-9733-2)  / 2 TABLET, COATED in 1 POUCH",
+                "marketing_start_date": "20100511",
+                "sample": false
+            },
+            {
+                "package_ndc": "66715-9733-3",
+                "description": "3 POUCH in 1 CARTON (66715-9733-3)  / 2 TABLET, COATED in 1 POUCH",
+                "marketing_start_date": "20180214",
+                "sample": false
+            }
+        ],
+        "listing_expiration_date": "20231231",
+        "openfda": {
+            "manufacturer_name": [
+                "Lil' Drug Store Products, Inc."
+            ],
+            "rxcui": [
+                "895664"
+            ],
+            "spl_set_id": [
+                "b876bb40-a38b-445a-bc8a-466b3bfe166d"
+            ],
+            "is_original_packager": [
+                true
+            ],
+            "nui": [
+                "N0000000160",
+                "M0001335",
+                "N0000175722"
+            ],
+            "pharm_class_moa": [
+                "Cyclooxygenase Inhibitors [MoA]"
+            ],
+            "pharm_class_cs": [
+                "Anti-Inflammatory Agents, Non-Steroidal [CS]"
+            ],
+            "pharm_class_epc": [
+                "Nonsteroidal Anti-inflammatory Drug [EPC]"
+            ],
+            "unii": [
+                "4OD433S209",
+                "WK2XYI10QM"
+            ]
+        },
+        "marketing_category": "NDA",
+        "dosage_form": "TABLET, COATED",
+        "spl_id": "ee15d4ba-f2a6-f9ce-e053-2a95a90a244f",
+        "product_type": "HUMAN OTC DRUG",
+        "route": [
+            "ORAL"
+        ],
+        "marketing_start_date": "20100511",
+        "product_id": "66715-9733_ee15d4ba-f2a6-f9ce-e053-2a95a90a244f",
+        "application_number": "NDA021394",
+        "brand_name_base": "Advil PM",
+        "pharm_class": [
+            "Anti-Inflammatory Agents",
+            "Non-Steroidal [CS]",
+            "Cyclooxygenase Inhibitors [MoA]",
+            "Histamine H1 Receptor Antagonists [MoA]",
+            "Histamine-1 Receptor Antagonist [EPC]",
+            "Nonsteroidal Anti-inflammatory Drug [EPC]"
+        ]
+    }
+]
